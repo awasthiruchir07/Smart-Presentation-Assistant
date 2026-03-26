@@ -32,5 +32,6 @@ This project is a Command Line Interface (CLI) tool that helps users create stru
 - View prompts
 - Practice using timer
 
- 
+## Author 
+Made by me (^o^)
 
