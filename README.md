@@ -23,9 +23,8 @@ This project is a Command Line Interface (CLI) tool that helps users create stru
 1. Clone the repository
 2. Navigate to project folder
 3. Run:
-'''
-bash python app.py
-'''
+   ```Powershell
+     python PythonAI.py
 
 ## Example Usage
 - Create a presentation
